@@ -13,4 +13,5 @@ a python project for data analysis of bike sharing data.
 chicago.csv, new_york_city.csv, washington.csv.
 
 ### Credits
+I refered to the folloing project developed by Aritra Chattaraj:
 https://github.com/Aritra96/bikeshare-project/blob/master/bikeshare.py
