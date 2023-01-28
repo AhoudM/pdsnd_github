@@ -1,4 +1,5 @@
 # This project will analyze the bike sharing data as an application on what have learned in Udacity course.
+# The files used are chicago.csv, new_york_city.csv, washington.csv
 
 import time
 import pandas as pd
