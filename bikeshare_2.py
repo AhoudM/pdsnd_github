@@ -1,3 +1,5 @@
+# The files used are chicago.csv, new_york_city.csv, washington.csv
+
 import time
 import pandas as pd
 import numpy as np
