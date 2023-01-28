@@ -1,3 +1,5 @@
+# This project will analyze the bike sharing data as an application on what have learned in Udacity course.
+
 import time
 import pandas as pd
 import numpy as np
